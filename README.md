@@ -99,7 +99,7 @@ The game is fully responsive and was set with some animations and a little twist
 
 ### Deployment
 
-- The live link can be found here - https://ahmednasser111.github.io/tic-tac-toe-game/
+- The live link can be found here - https://ahmednasser111.github.io/tic-tac-toe-game-frontendmentor/
 
 ## Author
 
